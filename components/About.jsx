@@ -25,7 +25,7 @@ function About() {
         initial="hidden"
         whileInView="show"
         viewport={{ once: true, amount: 0.25 }}
-        className="mt-4 dark:text-ctnSecondaryDark text-gray-300 text-[17px] w-full leading-[30px] flex flex-col justify-between gap-6"
+        className="mt-4 white:text-ctnSecondaryDark text-white-300 text-[17px] w-full leading-[30px] flex flex-col justify-between gap-6"
       >
         <div>
         Hello! I&apos;m Gobinda, a passionate web developer and problem solver. Currently, I&apos;m working as a Software Developer at Techies India. I have completed a B.Tech degree in Computer Science and Engineering from Gulzar Group of Institutes, Khanna. I&apos;m a software developer with experience in TypeScript, TailwindCSS, and JavaScript. I specialize in frameworks such as React, Node.js, Next.js, React-Three-Fiber, and Three.js. My knowledge extends to fundamental data structures and algorithms, making me well-versed in frontend web development.

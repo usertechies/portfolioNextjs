@@ -101,7 +101,8 @@ function Works() {
       <div className="w-full flex">
         <motion.p
           variants={fadeIn("", "", 0.1, 1)}
-          className="mt-3 dark:text-ctnSecondaryDark text-ctnSecondaryLight text-[17px] max-w-3xl leading-[30px]"
+          className="mt-3 text-ctnSecondaryLight dark:text-white text-[17px] max-w-3xl leading-[30px]"
+
           initial="hidden"
           whileInView="show"
           viewport={{ once: true, amount: 0.25 }}

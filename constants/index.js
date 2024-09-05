@@ -81,21 +81,7 @@ const technologies = {
       icon: "/assets/tech/typescript.svg",
       link: "https://www.typescriptlang.org/",
     },
-    {
-      name: "C",
-      icon: "/assets/tech/c.svg",
-      link: "https://en.cppreference.com/w/c",
-    },
-    {
-      name: "Java",
-      icon: "/assets/tech/java.svg",
-      link: "https://www.java.com/en/",
-    },
-    {
-      name: "Python",
-      icon: "/assets/tech/python.svg",
-      link: "https://www.python.org/",
-    },
+  
     {
       name: "PHP",
       icon: "/assets/tech/php.png",
@@ -118,11 +104,7 @@ const technologies = {
       icon: "/assets/tech/expressjs.png",
       link: "https://expressjs.com/",
     },
-    {
-      name: "Flutter",
-      icon: "/assets/tech/flutter.svg",
-      link: "https://flutter.dev/",
-    },
+ 
   ],
   libraries: [
     {
@@ -458,15 +440,8 @@ const socials = [
 ];
 
 const heroTexts = [
-  "React/Next.js developer",
-  500,
-  "Freelancer",
-  500,
+
   "Full-Stack developer",
-  500,
-  "Frontend developer",
-  500,
-  "Backend developer",
   500,
   "Junior Software Developer in Techies India .Inc",
   500,
